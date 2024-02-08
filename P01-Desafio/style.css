@@ -1,0 +1,35 @@
+
+body{
+  margin:0;
+  text-align: center;
+  min-height: 100vh;
+}
+main{
+  margin-top: 64px;
+}
+h1{
+  font-family: 'Dosis', sans-serif;
+}
+
+h1 span{
+  color:#EE24FF ;
+}
+
+ul{
+  display: inline-flex;
+  gap: 42px;
+
+}
+
+p,ul{
+font-family: 'Open Sans', sans-serif;
+list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: #3F3D56;
+}
+#Onda{
+  width: 1458px;
+}
